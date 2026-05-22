@@ -44,10 +44,6 @@ The project included:
 * KPI tracking
 * Map visualization
 
-## Dashboard Preview
-
-(Add dashboard screenshots here)
-
 ## Learning Outcome
 
 This project helped me strengthen my skills in:
